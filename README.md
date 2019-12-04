@@ -13,5 +13,5 @@ Remember replace "[path to Gimp application]" in each file with the actual path 
 
 | File | Description | Medium |
 | --- | --- | --- |
-| `python_hello_world.py` | Simple plug-in to show text in message box | [Medium](https://medium.com/@tobyliu_blogs/how-to-add-a-python-plug-in-to-gimp-2-10-on-macos-9c7c53bd3807) |
-| `python_add_guides.py` | Add multiple guides with same space in between | [Medium]() |
+| [python_hello_world.py](https://github.com/tobyliu-sw/gimp_plugins/blob/master/python_hello_world.py) | Simple plug-in to show text in message box | [Medium](https://medium.com/@tobyliu_blogs/how-to-add-a-python-plug-in-to-gimp-2-10-on-macos-9c7c53bd3807) |
+| [python_add_guides.py](https://github.com/tobyliu-sw/gimp_plugins/blob/master/python_add_guides.py) | Add multiple guides with same space in between | [Medium](https://medium.com/@tobyliu_blogs/adding-multiple-guides-in-gimp-2-10-on-macos-efda6a0f2b34) |
